@@ -2,8 +2,6 @@
 
 ## Как запустить
 
-Переходим в папку sharding-repl-cache
-
 Запускаем mongodb и приложение
 
 ```shell
@@ -97,4 +95,4 @@ curl --silent http://ifconfig.me
 
 Сделайте вызов http://localhost:8080/helloDoc/users или http://<ip виртуальной машины>:8080/helloDoc/users
 Повторите получение данных http://localhost:8080/helloDoc/users или http://<ip виртуальной машины>:8080/helloDoc/users
-Повторный вызов должен выполняться существенно быстрее
+Повторный вызов должен выполняться быстрее
